@@ -142,6 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="globals.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="utils_image.cpp" />
     <ClCompile Include="win_utils.cpp" />
@@ -150,6 +151,9 @@
     <ClInclude Include="macros.h" />
     <ClInclude Include="utils_image.h" />
     <ClInclude Include="win_utils.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="TODO.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

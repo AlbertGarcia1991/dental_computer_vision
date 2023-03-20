@@ -1,0 +1,37 @@
+DAY 1:
+	Functions:
+		Save
+		Load
+		Resize
+		Rotate
+		Flip
+		Crop
+		Mask
+	Theory:
+		Enums
+
+DAY 2:
+	OpenCV exampled use cv::Mat img& by reference, why?
+	Throwed errors as ENUM with verbose name
+	Crop and save individual teeth from main images and json files into a new folder
+	Functions:
+		JSON parsing
+		Create directory if does not exist
+
+DAY 3:
+	Image basic colour changes (contrast, brightness)
+	Image annotations (text, rectangle, circle, line)
+
+DAY 4:
+	Advanced filtering
+		Convolutions
+		Threshold
+		Edge detection
+		Cntour detection
+
+DAY 5:
+	Advanced filtering
+		Blob detection
+
+DAY 6:
+	Mouse and keyboard input for annotations, measuring, and zoom
